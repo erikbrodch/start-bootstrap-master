@@ -49,3 +49,5 @@ section {
   font-weight: 400;
   margin-bottom: 75px;
 }
+
+.top-buffer { margin-top: 50px; }
